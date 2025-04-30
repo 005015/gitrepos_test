@@ -9,6 +9,7 @@ func main() {
 	fmt.Println("This is a simple Go program.")
 	fmt.Println("It prints a message to the console.")
 	fmt.Println("You can modify this code to suit your needs.")
+	fmt.Println("Here are some basic arithmetic operations:")
 }
 func add(a int, b int) int {
 	return a + b
