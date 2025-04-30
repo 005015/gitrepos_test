@@ -10,3 +10,9 @@ func main() {
 	fmt.Println("It prints a message to the console.")
 	fmt.Println("You can modify this code to suit your needs.")
 }
+func add(a int, b int) int {
+	return a + b
+}
+func subtract(a int, b int) int {
+	return a - b
+}
